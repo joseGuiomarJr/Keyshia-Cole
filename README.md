@@ -84,11 +84,7 @@ Este projeto demonstra minha habilidade em:
 ✔️ Aplicar visão de QA mesmo em pequenos projetos
 
 
-## Contato 📩
-Caso tenha sugestões ou queira contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-🔗 **[Portfólio](https://seu-portfolio.com)**  
-📧 **Email:** seuemail@email.com
 
 ---
 📝 Projeto criado para fins educacionais e demonstração de habilidades em desenvolvimento web.
