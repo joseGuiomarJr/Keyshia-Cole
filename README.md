@@ -61,8 +61,7 @@ Funcionalidades
 
 Clone este repositório:
 
-git clone https://github.com/joseguiomarJr/keyshia-cole.git
-
+git clone https://github.com/joseGuiomarJr/Keyshia-Cole.git
 
 Abra o arquivo index.html em seu navegador preferido.
 
