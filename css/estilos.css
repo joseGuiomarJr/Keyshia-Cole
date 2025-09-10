@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+*{
+margin: 0;
+padding: 0;
+text-align: center;
+text-decoration: none;
+list-style: none;
+}
+
+
+body{
+    font-family: 'Oswald', sans-serif;
+    color: black;
+    background-color: silver ;
+    background: url("..//img/bg.jpg");
+}
+img{
+    max-width: 100%; width: auto; border: 0;
+}
+
+.fundoTopo {
+    display: none;
+}
+
+.conteudo{
+    margin: 0 auto;
+    border: 0;
+    max-width: 1000px;
+}
+header {
+    border: 0;
+    max-width: 580px;
+
+}
+h1{
+    color: #9e2b1d; 
+    font-size: 40px;
+
+}
+header h2{
+    color: #9e2b1d;
+    font-size: 21px;
+    margin-top: 20px;
+}
+.comprar {
+    margin: 30px auto 90px;
+    max-width: 450px;
+    font-size: 0;
+}
+.comprar ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+.comprar li a {
+    display: block;
+    height: 42px;
+}
+.itunes{
+    background: url("../img/retailers.png");
+    background-repeat: no-repeat;
+    background-position: left top ;
+    width: 105px;
+}
+.spotify{
+    background: url("../img/retailers.png")
+    no-repeat -281px top;
+    width: 182px;
+}
+.gp{
+    background: url("../img/retailers.png")
+    no-repeat -484px top;
+    width: 114px;
+}
+.amazon{
+    background: url("../img/retailers.png")
+    no-repeat -624px top;
+    width: 65px;
+}
+.applemusic{
+    background: url("../img/retailers.png")
+    no-repeat -127px top;
+    width: 133px;
+}
+.itunes:hover{
+    background-position: left bottom;
+}
+.applemusic:hover{
+    background-position: -127px bottom
+}
+.spotify:hover{
+    background-position: -281px bottom
+}
+.amazon:hover{
+    background-position: -624px bottom
+}
+.gp:hover{
+    background-position: -484px bottom
+}
+section{
+    background-color: #9e2b1d;
+    padding: 40px 0 60px; 
+}
+section h1 {
+    color: #222121;
+    text-transform: uppercase ;
+    font-size:  40px ;
+    font-weight: 500px;
+    padding: 10px 0  15px ;
+}
+iframe{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.video{
+    position: absolute;
+    overflow: hidden;
+    padding: top 20px;
+}
+section{
+    background-color: #9e2b1d;
+    padding: 40px 0 60px;
+}
+section h1{
+    color: black;
+    text-transform: uppercase;
+    font-size:  40px;
+    font-weight: 500px;
+    padding: 10px 0 15px 0;
+}
+footer{
+    color: #656464;
+    background-color: #222121;
+    font-size: 14px;
+}
+footer a{
+    color:#999797
+}
+footer a:hover{
+    color: #656464
+}
+footer div{ 
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 8px
+}
+.logoRodape{
+    position: relative;
+    margin: 30px auto 20px;
+
+}
+.direitos{
+    letter-spacing: 0.8 px;
+}
+
+.redeSociais{
+    padding: 80px 0 40px;
+
+}
+.redeSociais a {
+    font-size: 35px;
+    color: #9e2b1d;
+    
+}
+.redeSociais a :hover{
+    color: white;
+}
+.redeSociais li {
+display: inline-block;
+padding: 0 15px ; 
+}
