@@ -14,6 +14,8 @@ A página simula uma divulgação musical, com links direcionando para diferente
 ## Sobre o Projeto 🎶
 Este projeto é uma landing page dedicada à cantora Keyshia Cole, promovendo o álbum "11:11 Reset". A página apresenta um design moderno e interativo, permitindo aos fãs acessarem o álbum em diversas plataformas de streaming, além de visualizar um vídeo musical integrado.
 
+
+
 📁 Projeto
 │── 📁 css
 │    └── estilos.css        # Estilos da página
@@ -30,7 +32,9 @@ Este projeto é uma landing page dedicada à cantora Keyshia Cole, promovendo o 
 │    └── main.jpg           # Imagem principal
 │
 │── index.html              # Página inicial
-│── README.md               # Documentação do projeto
+│── README.md               # Documentação do projeto]
+
+
 
 ## Tecnologias Utilizadas 🚀
 - **HTML5**: Estruturação semântica da página
